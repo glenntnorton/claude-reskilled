@@ -1,3 +1,3 @@
 # claude-reskilled
 
-# moved to: github.com/year47/
+moved to: http://www.github.com/year47/
